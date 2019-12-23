@@ -2,12 +2,12 @@
 	"version": 1,
 	"jenkins": {
 		"Geyser": [
-			"Geyser|http://ci.nukkitx.com/job/Geyser/",
+			"Geyser|http://ci.nukkitx.com/job/Geyser/job/master/",
 			"LoyaltyMC|http://github.com/LegacyGamerHD/LoyaltyMC-Geyser/releases/download/1.0-snapshot-2/Geyser.jar"
 
 		],
 		"Nukkit": [
-			"NukkitX|https://ci.nukkitx.com/job/NukkitX/"
+			"NukkitX|NukkitX|http://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/"
 		]
 	},
 	"source_code": "https://github.com/fengberd/PocketServer",
