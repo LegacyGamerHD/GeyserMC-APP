@@ -7,7 +7,7 @@
 
 		],
 		"Nukkit": [
-			"NukkitX|NukkitX|http://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/"
+			"NukkitX|http://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/"
 		]
 	},
 	"source_code": "https://github.com/fengberd/PocketServer",
